@@ -1,0 +1,15 @@
+
+/* seletor{
+    propriedade1: valor;
+    propriedade2: valor;
+    propriedadeN: valor;
+}
+TIPOS de SELETORES
+    * de elemento ou seletor universal - h1, p, b, body ou seja, TODOS do HTML
+    * ID
+    * CLASS
+ */
+
+ body{
+    background-color:rgba(124, 42, 42,0.5);
+ }
